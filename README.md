@@ -32,12 +32,7 @@ Beginner:----------------------------------------------------------
 
 intermediate:----------------------------------------------------------
 
-<<<<<<< Updated upstream
- Project #9 - Password Managers (Most Advanced):
-=======
-intermediate:--------------------------------------------------------------------------------------------------------------------------
  Project #1 - Password Managers (Most Advanced):
->>>>>>> Stashed changes
     This Python script implements a basic password manager using the Fernet encryption scheme from the cryptography library. It allows users to add new passwords or view existing ones.
 
  Project #2 - To-Do List Application:
@@ -58,17 +53,9 @@ intermediate:-------------------------------------------------------------------
 
 Advanced:----------------------------------------------------------
 
-<<<<<<< Updated upstream
- Project #21 - Shortest Path Finder:
- Project #22 - Mastermind/4 Color Match:
- Project #23 - Aim Trainer:
- Project #24 - Advanced Python Scripting:
-=======
-Advanced:------------------------------------------------------------------------------------------------------------------------------
  Project #1 - Shortest Path Finder:
  Project #2 - Mastermind/4 Color Match:
  Project #3 - Aim Trainer:
  Project #4 - Advanced Python Scripting:
->>>>>>> Stashed changes
 
 ----------------------------------------------------------
