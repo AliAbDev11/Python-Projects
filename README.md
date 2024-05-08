@@ -1,6 +1,7 @@
 List of Python Projects - From Beginner to Advanced.
 
 Beginner:----------------------------------------------------------
+
  Project #1 - Quiz Game:
     This Python script implements a simple quiz game where the player is asked a series of questions and earns points for correct answers. The game starts with a welcome message and prompts the player to choose whether they want to play. If the player chooses to play, they are asked a series of questions related to capitals, planets, literature, and art. For each question, the player's answer is compared with the correct answer, and points are awarded accordingly. At the end of the game, the player's final score out of 5 is displayed.
 
@@ -30,6 +31,7 @@ Beginner:----------------------------------------------------------
 ----------------------------------------------------------
 
 intermediate:----------------------------------------------------------
+
  Project #9 - Password Managers (Most Advanced):
     This Python script implements a basic password manager using the Fernet encryption scheme from the cryptography library. It allows users to add new passwords or view existing ones.
 
@@ -50,6 +52,7 @@ intermediate:----------------------------------------------------------
 ----------------------------------------------------------
 
 Advanced:----------------------------------------------------------
+
  Project #21 - Shortest Path Finder:
  Project #22 - Mastermind/4 Color Match:
  Project #23 - Aim Trainer:
