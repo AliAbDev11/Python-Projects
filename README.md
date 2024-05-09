@@ -26,6 +26,7 @@ Beginner:----------------------------------------------------------
     In this Python exercise, you'll create a function called is_palindrome() that checks whether a given string is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces and case).
 
  Project #7 - Alarm Clock:
+ 
  Project #8 - Password Generator:
  
 ----------------------------------------------------------
@@ -39,14 +40,23 @@ intermediate:----------------------------------------------------------
     This Python script implements a basic To-Do List program where users can add, edit, mark tasks as completed, delete, and view tasks.
 
  Project #3 - PIG:
+ 
  Project #4 - Madlibs Generator:
+ 
  Project #5 - Timed Math Challenge:
+ 
  Project #6 - Slot Machine:
+ 
  Project #7 - Turtle Racing:
+ 
  Project #8 - WPM Typing Test:
+ 
  Project #9 - NBA Stats & Current Scores:
+ 
  Project #10 - Currency Converter:
+ 
  Project #11 - YouTube Video Downloader:
+ 
  Project #12 - Automated File Backup:
 
 ----------------------------------------------------------
@@ -54,8 +64,11 @@ intermediate:----------------------------------------------------------
 Advanced:----------------------------------------------------------
 
  Project #1 - Shortest Path Finder:
+ 
  Project #2 - Mastermind/4 Color Match:
+ 
  Project #3 - Aim Trainer:
+ 
  Project #4 - Advanced Python Scripting:
 
 ----------------------------------------------------------
