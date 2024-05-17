@@ -24,10 +24,8 @@ Beginner:----------------------------------------------------------
 
  Project #6 - Palindrome Checker:
     In this Python exercise, you'll create a function called is_palindrome() that checks whether a given string is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces and case).
-
- Project #7 - Alarm Clock:
  
- Project #8 - Password Generator:
+ Project #7 - Password Generator:
  
 ----------------------------------------------------------
 
